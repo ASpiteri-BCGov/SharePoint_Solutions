@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="This Feature adds a REST API controlled collection navigation for all sites" Id="4ceea02e-2ca7-4c1f-933f-1320b288406b" ImageUrl="GenericFeature.gif?breadcrumb.png" Scope="Site" Title="SharePoint Collection Navigation">
+  <ElementManifests>
+    <ElementManifest Location="FabricUICollectionNavCA\Elements.xml" />
+    <ElementManifest Location="Style Library\Elements.xml" />
+    <ElementFile Location="Style Library\FabricUICollectionNav\js\CSP_CollectionMenu.js" />
+    <ElementFile Location="Style Library\FabricUICollectionNav\css\csp_CollectionMenu.css" />   
+  </ElementManifests>
+</Feature>

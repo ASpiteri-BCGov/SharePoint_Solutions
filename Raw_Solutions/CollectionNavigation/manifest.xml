@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="067704e5-fcd8-4366-8e28-1b29e34b1328" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="SharePointCollectionNav_CollectionNav feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
